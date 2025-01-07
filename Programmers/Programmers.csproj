@@ -43,9 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LV0_n의배수.cs" />
+    <Compile Include="LV0_공배수.cs" />
+    <Compile Include="LV0_주사위게임1.cs" />
     <Compile Include="LV0_홀짝맞추기.cs" />
     <Compile Include="LV0_문자열붙이기.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

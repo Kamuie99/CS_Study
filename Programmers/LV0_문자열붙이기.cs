@@ -4,7 +4,7 @@ namespace Programmers
 {
     class LV0_문자열붙이기
     {
-        public static void Main()  // 모든 C# 프로그램은 Main 메서드에서 실행을 시작함, static으로 선언되었기에 인스턴스 생성 불필요
+        public static void Example()  // 모든 C# 프로그램은 Main 메서드에서 실행을 시작함, static으로 선언되었기에 인스턴스 생성 불필요
         {
             string[] input;   // input 이름의 문자열 배열 선언
 
