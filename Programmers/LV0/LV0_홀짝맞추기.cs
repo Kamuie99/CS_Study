@@ -4,6 +4,7 @@ namespace Programmers
 {
     class LV0_홀짝맞추기
     {
+        
         public static void Example()  // 모든 C# 프로그램은 Main 메서드에서 실행을 시작함, 사용 안할때는 다른걸로 변경
         {
             String[] s;  // 문자열 배열 s를 선언, 사용자 입력 데이터를 저장할 공간으로 활용
