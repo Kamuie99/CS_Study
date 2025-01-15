@@ -6,6 +6,8 @@
 
 이 계산기 프로그램은 기본적인 사칙연산(덧셈, 뺄셈, 곱셈, 나눗셈)을 수행할 수 있는 기능을 제공합니다. 사용자 친화적인 인터페이스를 통해 손쉽게 계산 작업을 수행할 수 있습니다.
 
+![실행 화면](./images/main.png)
+
 ## 프로젝트 개요
 - 프로젝트 기간 (1일)
 2025.01.13
@@ -23,6 +25,23 @@
 1. [프로젝트 저장소](https://github.com/Kamuie99/CS_Study/tree/master/Calculator)를 클론하거나 ZIP 파일로 다운로드합니다.
 2. Visual Studio에서 `Calculator.sln` 파일을 엽니다.
 3. 솔루션을 빌드하고 실행합니다.
+
+## 폴더 구조
+
+```
+Calculator/
+├── Calculator.sln
+├── Calculator/
+│   ├── CalculatorForm.cs
+│   ├── CalculatorForm.Designer.cs
+│   ├── Program.cs
+│   ├── Properties/
+│   │   ├── AssemblyInfo.cs
+│   │   ├── Resources.resx
+│   │   └── Settings.settings
+├── images/
+│   └── screenshot.png
+```
 
 ## 기술 스택
 
